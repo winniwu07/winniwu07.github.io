@@ -1,2 +1,2 @@
 # winniwu07.github.io
-CSC 193A Assignment 4
+CSC 193A
